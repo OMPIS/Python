@@ -8,3 +8,5 @@ for i in num:
     if i == '3':
         continue
     print("Added",i)
+
+# skips number 3 when execution done then print rest of the list.
